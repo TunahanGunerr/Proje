@@ -1176,3 +1176,441 @@ FPackageName: Skipped package /Game/materyal/siyah has a valid, mounted, mount p
 [2025.10.25-15.19.29:953][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 352.045258
 [2025.10.25-15.19.30:953][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.25-15.19.30:953][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.712982, Update Interval: 357.811829
+[2025.10.25-15.25.31:319][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 713.412231
+[2025.10.25-15.25.32:319][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-15.25.32:320][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 714.079285, Update Interval: 329.504700
+[2025.10.25-15.31.07:338][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1049.429077
+[2025.10.25-15.31.08:338][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-15.31.08:338][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1050.095581, Update Interval: 306.967377
+[2025.10.25-15.36.28:691][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1370.781982
+[2025.10.25-15.36.29:691][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-15.36.29:691][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1371.448242, Update Interval: 339.099701
+[2025.10.25-15.40.02:903][734]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.25-15.40.02:903][734]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.25-15.40.03:089][734]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_74563CC5CD87DC9B02_2089518895
+[2025.10.25-15.40.03:111][734]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_74563CC5CD87DC9B02_2089518895
+[2025.10.25-15.40.20:100][ 90]Cmd: EDIT COPY
+[2025.10.25-15.40.20:324][103]Cmd: EDIT PASTE
+[2025.10.25-15.40.22:819][313]Cmd: DELETE
+[2025.10.25-15.40.22:832][313]Cmd: ACTOR DELETE
+[2025.10.25-15.40.22:966][313]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.25-15.40.23:231][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.25-15.40.23:233][313]LogEditorActor: Deleted 1 Actors (0.364 secs)
+[2025.10.25-15.40.29:755][875]Cmd: EDIT COPY
+[2025.10.25-15.40.30:197][900]Cmd: EDIT PASTE
+[2025.10.25-15.40.41:286][873]Cmd: TRANSACTION UNDO
+[2025.10.25-15.40.41:316][873]LogEditorTransaction: Undo Elementleri Döndür
+[2025.10.25-15.40.53:733][947]Cmd: EDIT COPY
+[2025.10.25-15.40.53:951][968]Cmd: EDIT PASTE
+[2025.10.25-15.41.05:363][  2]Cmd: EDIT PASTE
+[2025.10.25-15.41.20:562][373]Cmd: EDIT COPY
+[2025.10.25-15.41.20:849][400]Cmd: EDIT PASTE
+[2025.10.25-15.41.35:457][734]Cmd: EDIT COPY
+[2025.10.25-15.41.35:762][763]Cmd: EDIT PASTE
+[2025.10.25-15.41.52:589][697]LogSlate: Took 0.020416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.25-15.41.55:525][697]LogSlate: Window 'Bölümü Farklı Kaydet' being destroyed
+[2025.10.25-15.41.55:963][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../Projects/ortakproje/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.25-15.41.56:050][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.25-15.41.56:218][697]LogSavePackage: Moving output files for package: /Game/NewMap
+[2025.10.25-15.41.56:218][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/NewMapF45E5BC64412FC22ECB1179B737C6D1E.tmp' to '../../../Projects/ortakproje/Content/NewMap.umap'
+[2025.10.25-15.41.56:308][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-15.41.56:512][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.25-15.41.56:530][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.25-15.41.56:548][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.25-15.41.56:549][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap_HLOD0_Instancing] ([1] browsable assets)...
+[2025.10.25-15.41.56:549][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap_HLOD0_Instancing]
+[2025.10.25-15.41.56:549][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_HLOD0_Instancing" FILE="../../../Projects/ortakproje/Content/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2025.10.25-15.41.56:573][697]LogSavePackage: Moving output files for package: /Game/NewMap_HLOD0_Instancing
+[2025.10.25-15.41.56:573][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/NewMap_HLOD0_Instancing0B5463C24F4A7937FE4A84AFDDFE638A.tmp' to '../../../Projects/ortakproje/Content/NewMap_HLOD0_Instancing.uasset'
+[2025.10.25-15.41.56:637][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2025.10.25-15.41.56:637][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/QO5TQORWCXORVK1051S8GH45F40B1743A1009C8D5DC0AA509BB5E8.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset'
+[2025.10.25-15.41.56:641][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2025.10.25-15.41.56:641][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/3FHCA0FW5IIFSQ2O54UZA9BA7E4BD540BB8D61B1888CB26D660FB3.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset'
+[2025.10.25-15.41.56:645][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2025.10.25-15.41.56:645][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/99MZXH85XVTY7NU0J1OJ8N26B2B7CA445D9598E89107B1078ECF29.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset'
+[2025.10.25-15.41.56:648][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2025.10.25-15.41.56:649][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/DIR8ZHVIQ96U3XBY7PSRNIFE581AA848F87860B0EBD1AA4A1B5A75.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI.uasset'
+[2025.10.25-15.41.56:652][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+[2025.10.25-15.41.56:652][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/WYRPDUCDC4MIWMIRBPXU8GB089680C4B1D3EB90D1F709B3FA24C7E.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G.uasset'
+[2025.10.25-15.41.56:656][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2025.10.25-15.41.56:656][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/PV6HCV4P0GX9P77B63TXTQDCCD7E0E4411DD1F01C92AA014B74B74.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ.uasset'
+[2025.10.25-15.41.56:659][697]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+[2025.10.25-15.41.56:659][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/KV5NVW6RVGCY40C13H5F987F2BABF544B0152C411A2A80061FB048.tmp' to '../../../Projects/ortakproje/Content/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98.uasset'
+[2025.10.25-15.41.56:899][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2025.10.25-15.41.56:899][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/K9ZUEA69K5KJSH5045MJR1520C01054EEB52514DE10AB5A1CF2856.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1.uasset'
+[2025.10.25-15.41.56:957][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2025.10.25-15.41.56:957][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/33JI6228IHMKP046YQI3NM030471584A3FEF9AE4D7C0BE5C8DAC6D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM.uasset'
+[2025.10.25-15.41.56:962][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2025.10.25-15.41.56:962][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/SX9JKDV4UA15T0E1TTFAVZBC21D947400D2BD84F8F10B450C71E30.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ.uasset'
+[2025.10.25-15.41.56:966][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2025.10.25-15.41.56:966][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/UWT2EIZPYQICCJ0JNTZ85V250C780F40ADF7792D6D0E953C168E0C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V.uasset'
+[2025.10.25-15.41.56:970][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2025.10.25-15.41.56:970][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ZZZUE6B734TVUOS09XOW8Y6B6D09D54869918BA91411AB250CDBFC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset'
+[2025.10.25-15.41.56:974][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2025.10.25-15.41.56:974][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/QNW4NKCF3JB30PDQLYNK04B2A3E1AD44DB28A251806C951667399D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset'
+[2025.10.25-15.41.56:979][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2025.10.25-15.41.56:979][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/S0M3NFTEJWDWQXLH8WL3P06072CB324788F46714A20D9A4A1458E7.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset'
+[2025.10.25-15.42.05:507][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2025.10.25-15.42.05:507][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/H67VGU7BHNHPWWQEMQJ41J40859A644505F05FE82766B49600D459.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2025.10.25-15.42.05:512][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2025.10.25-15.42.05:512][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/D90LOZ6OX06T5XEND5R79L90829F364851F22CD68A468673667035.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2025.10.25-15.42.05:574][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2025.10.25-15.42.05:574][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/STFWH78SWHO1BT3JB2S9GT82229DA045D622DAB74F1BB6B4474591.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2025.10.25-15.42.05:599][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2025.10.25-15.42.05:599][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/N5WZ7N63Q2DBG05ZT1Y94V62F3B4EE401F847CD5435F9C0CE4D4C2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2025.10.25-15.42.05:624][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2025.10.25-15.42.05:624][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/QCU8K2REN785K74C0JAHL8F8D7C2C049576356DA1D158E042211F5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2025.10.25-15.42.05:649][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2025.10.25-15.42.05:649][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/V9CAJRQOOCARULA8KSKFKF1D0AB61B47BCBC396955CCACCDC49CD9.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2025.10.25-15.42.05:680][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2025.10.25-15.42.05:680][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/PZ5XNZU157V0GDAJAXC2DQ831BDD06465EB4B0B230459A149C9B2C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2025.10.25-15.42.05:708][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2025.10.25-15.42.05:708][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/QBOG0EUDUJ3I7CKDLU6SM56B1DB281436FAAF8644871BDE2A73D1F.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2025.10.25-15.42.05:733][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2025.10.25-15.42.05:733][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/K5XHNT2TJPQ6HM9TN0HG8R642EF1214522272132801A842D75CA99.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2025.10.25-15.42.05:760][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2025.10.25-15.42.05:760][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/Y8EZ2AXLMEN39WTAPXB6VM98B1E7344B537EDFEDC21B89F231EA00.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2025.10.25-15.42.05:787][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2025.10.25-15.42.05:787][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/RPVI13LNVTY93V3EQ1Y4FVEFA9BEF84944A72B01F6F1BA1D38EC90.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2025.10.25-15.42.05:813][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2025.10.25-15.42.05:813][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/UDWQC9DWW7DL22CPJ4RVSIF494A0E0443A4938D7D5E39D74A98DD2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2025.10.25-15.42.05:840][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2025.10.25-15.42.05:840][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/EE3LUXOWULAYGXN1IPS4S2B2086A5645256EE39F2BD5AD12DFCC29.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2025.10.25-15.42.05:866][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2025.10.25-15.42.05:867][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/Y3GF0HWTXA7DHH1FL3IF9R78E782254E2559A650CB47AF4EAE0772.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2025.10.25-15.42.05:895][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2025.10.25-15.42.05:895][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/XX81YC0HUFD6L3IX7RWMS0A4F0B0D1486AA769945C99AC35FCE805.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2025.10.25-15.42.05:924][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2025.10.25-15.42.05:924][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/5E0J4DYSYB0DUPM0H3UFMJA397E51547C9BC1C2A9706BCA7D94B6E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2025.10.25-15.42.05:951][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2025.10.25-15.42.05:951][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/I3YAKOIE9OZW8RGU76MLDU9AADD70D4F688B33F7F1F886FD94FC64.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2025.10.25-15.42.05:978][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2025.10.25-15.42.05:978][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/8TXEZSVIN8XJXFAAPYJ9PF1B58E60F430269FE147B959542147459.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2025.10.25-15.42.06:005][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2025.10.25-15.42.06:005][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/99H285CLZ96HCTKT3S7S79B9F035384E0F602D1A94DC9086D3F71E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2025.10.25-15.42.06:032][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2025.10.25-15.42.06:032][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/J8JQXJ67F9KX47CCDA8ZMF5F4EFA8B47FC5FE40BD8FAB91697F5C4.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2025.10.25-15.42.06:059][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2025.10.25-15.42.06:059][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/7UWDO77CF7TNVQ9BB75XCFB945148B48619E37A511809F7005A3E5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2025.10.25-15.42.06:086][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2025.10.25-15.42.06:087][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/TIHXLB5639NV4RM260YDTW4BB0208249F7D046B6D6DC8568E74F98.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2025.10.25-15.42.06:114][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2025.10.25-15.42.06:114][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/GV76BBB2V0EFHV7ELK9A0Y774B1E464D60B14CA93B508A8F21658D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2025.10.25-15.42.06:141][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2025.10.25-15.42.06:141][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/CHPLQ79FFGJWC3VACZJA90F02CE3684BAE084DDE5428881CC30785.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2025.10.25-15.42.06:167][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2025.10.25-15.42.06:167][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/39OTWHVDSI751PAH6731ID4AD3275C4D97457B60489998754C75FC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2025.10.25-15.42.06:194][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2025.10.25-15.42.06:194][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/3B5158OKASMIKGFDZC9KRFBE8DB1164BE47D2216A51CADFA212DEF.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2025.10.25-15.42.06:221][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2025.10.25-15.42.06:221][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/X4NPSX8ZUWI1DPH52YEUUP8AE2303F4E79345952C25281FB526EDC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2025.10.25-15.42.06:249][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2025.10.25-15.42.06:249][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/MRZ7RQN5KANFM03I7EKRCC170E007040FD954CC1099A8FF58C0552.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2025.10.25-15.42.06:277][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2025.10.25-15.42.06:277][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/XQN8LZWIDWMWIMOBUZOJDHC2FF0B63461BAED155F184A87F565FDA.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2025.10.25-15.42.06:304][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2025.10.25-15.42.06:304][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ELJ3HI994B42IQIWQEZNGD891DFE1F418D6143DF202280CFB2D59E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2025.10.25-15.42.06:331][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2025.10.25-15.42.06:331][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/JJD8SHJCMNFNMC34COATAMCFFAD42E478CFC969AAB17BFD8534EBC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2025.10.25-15.42.06:358][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2025.10.25-15.42.06:358][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/HYGURXU7M62N8WAUIXLWPQFC929C4348A06731601FD398B4E1D7F5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2025.10.25-15.42.06:385][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2025.10.25-15.42.06:385][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/FH4UWQ2MQA5KPUZVXS23LJF8EEF04A4104C13AE92B5CB879665E8B.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2025.10.25-15.42.06:413][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2025.10.25-15.42.06:413][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/PLU0RE738EMG7CF7VC8D9S4BA47E174F2F82F9A2116CBA8C5CF412.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2025.10.25-15.42.06:440][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2025.10.25-15.42.06:440][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/KXAGD7OP6IEQ3K8LWI86RL6CACC87E4E537924D3459EBCD88C6050.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2025.10.25-15.42.06:466][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2025.10.25-15.42.06:467][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/9034HM4Y3YU11DE4XNPRA9C6266F8C46B8CDA0DEBC9CBEE6D5BFA5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2025.10.25-15.42.06:493][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2025.10.25-15.42.06:494][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/OHRQN7RF5THM8Z6O6262I4F14865AD4700882444CC18AD1422C364.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2025.10.25-15.42.06:548][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2025.10.25-15.42.06:548][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/TAVO56E9B1HVH1F45RLBIAB4DE4B9F464F35DF750DD99EB9E2E903.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2025.10.25-15.42.06:575][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2025.10.25-15.42.06:575][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/4ND4ZK6J06I5L4DPSTPYW9FC7ADC7341B8A090C5DCB393D4619934.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2025.10.25-15.42.06:655][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2025.10.25-15.42.06:655][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/VXH4MI02ODW8DKNLA2MOK3B8AE3B314D074490D2F5528DA4C9DC75.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2025.10.25-15.42.06:682][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2025.10.25-15.42.06:682][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/0XXSVY1Y0D2HIHA43BVMPH6884A2BE428840578D145DB2541E9E2F.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2025.10.25-15.42.06:708][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2025.10.25-15.42.06:708][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/JV2GOVBPB8GZ9MQUICHC9S75E9B158405693D8AC5821AEBCF555AD.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2025.10.25-15.42.06:736][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2025.10.25-15.42.06:736][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/CK3DVSRDA9WTQU5TC2XO2V4F53BC794F3AF93D535461BA487F64AF.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2025.10.25-15.42.06:763][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2025.10.25-15.42.06:763][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/NURB0U7U9ZV4H4LX7FT8T2E54A569F476B83A141F86AA15A7E5890.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2025.10.25-15.42.06:790][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2025.10.25-15.42.06:790][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/B3NPG0KFON6BVW5ECZJSUI5E92F826410E353E51474280F080A32D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2025.10.25-15.42.06:817][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2025.10.25-15.42.06:817][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/BULBFMUS7ADZJMH54QGDK9C43EF31E438ECF3DF0FD21A340D18EC5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2025.10.25-15.42.06:842][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2025.10.25-15.42.06:842][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/1HONC7HVU91I909A4N80W2070775004F3E43A5FF96E7BAF78DFC03.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2025.10.25-15.42.06:869][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2025.10.25-15.42.06:869][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/6S23OQXPMF10HYXLB9OEIP6C1E238F428F03EF5FE4F7895175025C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2025.10.25-15.42.06:895][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2025.10.25-15.42.06:895][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/L8FAOYPHJNQSTCW3XMMSJT015830A44B718F5A5D18E89A098F1069.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2025.10.25-15.42.06:924][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2025.10.25-15.42.06:924][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/29WASR1BMNC6IXHW8I5KZ8456F441D425315E08233FDA543ED24F2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2025.10.25-15.42.06:951][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2025.10.25-15.42.06:951][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/T187Z8E2C6CPJLXCH06KRJ7D5032174ADA3B961DEBBEB4071B7FA2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2025.10.25-15.42.06:988][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2025.10.25-15.42.06:988][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/85792LT2Y93I704I1JYP1K0F223B1C475B43975DC5B28BFA85C2DC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2025.10.25-15.42.07:014][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2025.10.25-15.42.07:014][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/Y23P0KHN1XII71UX7D1H8Q1EFCECBB47A42F38468F29AFE247E095.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2025.10.25-15.42.07:040][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2025.10.25-15.42.07:040][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/E7UFHHQZ7B8TLAL6Y74JRC69F222EB4A8DA4BC496DC88A8BF3E5F6.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2025.10.25-15.42.07:067][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2025.10.25-15.42.07:067][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/FL16ITLR22643N9B35THAR5316197E40BCA8E440E6C89A8F1DAB19.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2025.10.25-15.42.07:095][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2025.10.25-15.42.07:095][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/90QVEWVNXY6N07CS9SHQPME24DEB0A435FF641FE2453A7F9E918A7.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2025.10.25-15.42.07:123][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2025.10.25-15.42.07:123][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/YMDE4WERKLNXIT8TVTH5OWD189E08B40553D4829556686CE66AF13.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2025.10.25-15.42.07:149][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2025.10.25-15.42.07:149][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/NERX0MWYRICL228ZB8J0QW4B6050C747F3374EA70EFA89F4615250.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2025.10.25-15.42.07:176][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2025.10.25-15.42.07:176][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/VZU403KFJ6UJQ2M3VY6736A65CC99F4C3E2314683492943864296A.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2025.10.25-15.42.07:202][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2025.10.25-15.42.07:202][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/JANFZ62JMG0U1Z3UNCQVKV8C64D9E24A1AA12DCB9356A62D88D904.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2025.10.25-15.42.07:229][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2025.10.25-15.42.07:229][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/SPYD0PSGU4M3NK7DI5RDRM99468884451AD474D1330B96B798FEBC.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2025.10.25-15.42.07:256][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2025.10.25-15.42.07:256][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/M58JIDBQC2JEOWYFQ17JSYF908AEA34CFF301FE3F28DA5C614DB8C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2025.10.25-15.42.07:283][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2025.10.25-15.42.07:283][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/4G06FUR85LXRX1UCMOAFBE4621CB3746AAEEF594FD208FB8766B38.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2025.10.25-15.42.07:311][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2025.10.25-15.42.07:311][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/4NBZKC5PVQODH9SVSYPY1E35E4706B4E30F63E29D263B828FE2B23.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2025.10.25-15.42.07:340][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2025.10.25-15.42.07:340][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/APFM7ONOEVP1TBHZZ5VTDADA68D8924A40A3BDFD7586990CE2F04E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2025.10.25-15.42.07:367][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2025.10.25-15.42.07:367][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/UYA7A5HTQTJSRWJ4MK2WT68D3554B848A11B8F96D9059B574416CE.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2025.10.25-15.42.07:470][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+[2025.10.25-15.42.07:470][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/NYVVLNPBTKRYOWG6SJON5Q536FBB2649E6B0254A3843A23C151CD9.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q.uasset'
+[2025.10.25-15.42.07:479][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+[2025.10.25-15.42.07:480][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/CYNP3142GDJBY11M9RMRBC87514F094DFDABE4141276BDEC966287.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC.uasset'
+[2025.10.25-15.42.07:489][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+[2025.10.25-15.42.07:489][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/QGHAKQ11SESEDFOLUDKLRGE4291E26461B6355B1A531899F05773C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG.uasset'
+[2025.10.25-15.42.07:498][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+[2025.10.25-15.42.07:498][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/2K800X1I75LAHZV8NALO1GAF7C49F04BB4B6D8432DF8BE5A342450.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G.uasset'
+[2025.10.25-15.42.07:507][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+[2025.10.25-15.42.07:508][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/CKH5RYZ0ZR9KTVY5K32RCYFCD674894E381FF7DBE3D7B10372FCB2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY.uasset'
+[2025.10.25-15.42.07:517][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+[2025.10.25-15.42.07:517][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/R0G3BN5XGD6WGH52J72Q90AB0F14224D1AF5460627008B8906700A.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90.uasset'
+[2025.10.25-15.42.07:528][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+[2025.10.25-15.42.07:528][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/T6K63GS54OD48GIP4AVZO7544DC39047450B4363DBF4878FABC68D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7.uasset'
+[2025.10.25-15.42.07:537][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+[2025.10.25-15.42.07:537][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/70D8PQ7OROATLX8T345MDXBD55CC484291AC25AA7BE59855C5A011.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX.uasset'
+[2025.10.25-15.42.07:546][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+[2025.10.25-15.42.07:546][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/U6BUG1QRAYYVDV4PDSDUMMD067BCE6414C8BBC2AFD4E908DE1CC34.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM.uasset'
+[2025.10.25-15.42.07:556][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+[2025.10.25-15.42.07:556][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/K9VG19F1GEWZ7KOSERPA6I5D22BD65443D555E9FE2CCA860D2FD4F.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I.uasset'
+[2025.10.25-15.42.07:566][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+[2025.10.25-15.42.07:566][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/BIGXLLSVFWFDN8GVLXTIJHB9ECDC584950FDD4FB75A98804FFB6D0.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH.uasset'
+[2025.10.25-15.42.07:577][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+[2025.10.25-15.42.07:577][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/T3SRO2C63VCND6PXTEV1CHC3411971411EE283379F8FB8624B00E5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH.uasset'
+[2025.10.25-15.42.07:651][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+[2025.10.25-15.42.07:651][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/BOQSPAK8DZHLQ92PQS2LAKF91091A74D8427A13768AAB857DC4681.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK.uasset'
+[2025.10.25-15.42.07:660][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+[2025.10.25-15.42.07:660][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/I1YAF3YM63PH3IRC6INAMTFC1F5D4E431B46A0CB9AA38A48B379AB.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT.uasset'
+[2025.10.25-15.42.07:669][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+[2025.10.25-15.42.07:669][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/TLK74XQSIYIZ39BEJZZGS8E1CDC8B44B890BAB74A2849168953518.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8.uasset'
+[2025.10.25-15.42.07:678][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+[2025.10.25-15.42.07:678][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/JK1IL916YYFEUWC238D8BQ3EA2DFA74DE1678E2314FE8F30A893FB.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ.uasset'
+[2025.10.25-15.42.07:688][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+[2025.10.25-15.42.07:688][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/WEBCPTS9FFUMD5IBGOM3UGDC3FEF644CCFD44F7BCCB4BFB523E83C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG.uasset'
+[2025.10.25-15.42.07:697][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+[2025.10.25-15.42.07:697][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/VCTEVXRXLNOW5ZJ8J61MAD9F19BCC84F195407C1DF95A5FC41AFFB.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD.uasset'
+[2025.10.25-15.42.07:707][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+[2025.10.25-15.42.07:707][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/A1G10A9L4Y0YOIY6Y8GZIW0E681C8149A1BE50A94BD899968F9FB8.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW.uasset'
+[2025.10.25-15.42.07:716][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+[2025.10.25-15.42.07:716][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ZANREFWHM69H8EXQ1GE2WK5C89EE2640AE55BE6B5A92B63502FB59.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK.uasset'
+[2025.10.25-15.42.07:726][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+[2025.10.25-15.42.07:726][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/XDAM7DWXRXOLL0SMQT10VN7BC1BA304BABCE69E889C6B824683D37.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN.uasset'
+[2025.10.25-15.42.07:737][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+[2025.10.25-15.42.07:737][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/5S8ZIUHF416MXIWGA05B8X5C85BBF046FB4B55A926A89E0F9732CF.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X.uasset'
+[2025.10.25-15.42.07:746][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+[2025.10.25-15.42.07:746][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/JAM3O7SXZW7J01CAEI8GN842D21EE4490CD2503C61608C09D6CB96.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8.uasset'
+[2025.10.25-15.42.07:755][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+[2025.10.25-15.42.07:755][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/LUBSUPMBCORQY4BX4SUI8D6E07FE104212BD35083534B450488C59.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D.uasset'
+[2025.10.25-15.42.07:764][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+[2025.10.25-15.42.07:764][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/YUH16E8Q3OFF2UFEOECX6JC2C65CCD474E8EE48B11C8B6D1900231.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J.uasset'
+[2025.10.25-15.42.07:774][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+[2025.10.25-15.42.07:774][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/BQ4QD8DM1FV5621690L48ZCC7347C140061200EC70F6B8E28F6B50.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z.uasset'
+[2025.10.25-15.42.07:783][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+[2025.10.25-15.42.07:783][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/E3N9C35NWL586INQHB9VL5EFD3959A4317BCA5EF14BEAABD19C05C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5.uasset'
+[2025.10.25-15.42.07:792][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+[2025.10.25-15.42.07:792][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/H3EUOGV4ND1YS97V1OH50D875F0ACD4FCE554B2E5C88B83FEFBDA6.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D.uasset'
+[2025.10.25-15.42.07:802][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+[2025.10.25-15.42.07:802][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/LBYD52OUWDVKRW2LR5N40R598B6346411D7EA343D923A01EA26829.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R.uasset'
+[2025.10.25-15.42.07:811][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+[2025.10.25-15.42.07:811][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/91MV17CEV5O0TI24BDEBY1FB555DA940C7B32C05CED5AC0D0001E2.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1.uasset'
+[2025.10.25-15.42.07:821][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+[2025.10.25-15.42.07:821][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/AYG5JX9GFZ46UZ4D89AS6V3F178B1542D535865F8C7B8475578462.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V.uasset'
+[2025.10.25-15.42.07:830][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+[2025.10.25-15.42.07:830][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/OL1EVUAEZLBC9MZGWLQTGRE74F6D00402DF80657B2488CC3DD80D5.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR.uasset'
+[2025.10.25-15.42.07:839][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+[2025.10.25-15.42.07:839][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/7QOFK6FYQLTOX424QPFWQM8095EE36486C3C3CFE6826A12E7C3D89.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM.uasset'
+[2025.10.25-15.42.08:024][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+[2025.10.25-15.42.08:024][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/KF97WTUCVEEXW34TJN9TX2FF6FE7DE4CB6FCBED48A1DA3357DC31A.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2.uasset'
+[2025.10.25-15.42.08:034][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+[2025.10.25-15.42.08:034][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/O5GF0WUY9GTB5G1RJCRG7S6993BFAF4D22C41D2A29169575ACD3E9.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S.uasset'
+[2025.10.25-15.42.08:044][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+[2025.10.25-15.42.08:044][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/OYJBGVX6BTQ1NB8STSMJKM92235E2D4114A2171399D8ACF13127E7.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM.uasset'
+[2025.10.25-15.42.08:054][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+[2025.10.25-15.42.08:054][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/VQZZAJSMUJW42R85QD9NH3AF3FB2544147AA0801A2D387EE6D8098.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3.uasset'
+[2025.10.25-15.42.08:064][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+[2025.10.25-15.42.08:064][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/7PB37ID42LVSJXRXYR6ZEP7643C37542C659EB3C1F71A3B8BEFB75.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP.uasset'
+[2025.10.25-15.42.08:074][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+[2025.10.25-15.42.08:074][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/0Q31YSJCQQFF2U7PF0BX28D53F07904E697A1A4557DDB00D0882ED.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28.uasset'
+[2025.10.25-15.42.08:083][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+[2025.10.25-15.42.08:083][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/AZSCYV28PUELWHGWGMOUUW4873E437435E529696AE2BBA91F03F2C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW.uasset'
+[2025.10.25-15.42.08:092][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+[2025.10.25-15.42.08:092][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/IQVOSVV1CJEJSNAYJGESY74E0A4A2E42272707EF43A1A94E0469EB.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7.uasset'
+[2025.10.25-15.42.08:102][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+[2025.10.25-15.42.08:102][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/46RJH0JG81KFL2EHXZEPMTB85386334AB673BD4F261CB498BCB0B9.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT.uasset'
+[2025.10.25-15.42.08:111][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+[2025.10.25-15.42.08:111][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/9BCOS91D9LWWYTKPAXD2LNBC6888054B947054FE88A8A2E2754B6D.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN.uasset'
+[2025.10.25-15.42.08:121][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+[2025.10.25-15.42.08:121][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/9BJPPHQETRDHJ6POTKQFCX787DF78B49979E143CDB5A971DEAA2DE.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX.uasset'
+[2025.10.25-15.42.08:130][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+[2025.10.25-15.42.08:130][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/G3E3331RDRVC7PRWZHULLK9FA6FE754FEAB1690DE829A851DF935E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK.uasset'
+[2025.10.25-15.42.08:139][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+[2025.10.25-15.42.08:139][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/YYX2A6F6SXT4UCL62ZSE1CFF2208FC41D6682D04A0B58BD9EAC664.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C.uasset'
+[2025.10.25-15.42.08:148][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+[2025.10.25-15.42.08:148][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/LYYUJ74G36R96SWX1Y48Z2389561FF4CACC5BE2414BEAAAC0C4B4B.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2.uasset'
+[2025.10.25-15.42.08:158][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+[2025.10.25-15.42.08:158][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ITT14I7RIPFAWOLW027WEZ682D72BB42E0012A58F1A98D5DA4B225.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ.uasset'
+[2025.10.25-15.42.08:167][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+[2025.10.25-15.42.08:167][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/IW2N8XM75607JCJRYEL5P1E5D3A04841483AEDF7DCF88B41E451CE.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1.uasset'
+[2025.10.25-15.42.08:176][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+[2025.10.25-15.42.08:176][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/VK823AP9UC5PC8XHHP2U6Q1D1DEB7D495E5694548BBCA1D089AFFA.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q.uasset'
+[2025.10.25-15.42.08:186][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+[2025.10.25-15.42.08:186][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/7AIFWLMZM6FNZ32SK032TY1B7D3A3F49F9AAB7582672974688401C.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY.uasset'
+[2025.10.25-15.42.08:195][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+[2025.10.25-15.42.08:195][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ILDZATAJAWX5WLB33M7FQS444DE7124E4D9B8E8627B79737449021.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS.uasset'
+[2025.10.25-15.42.08:205][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+[2025.10.25-15.42.08:205][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/Z0TCOW85SPIL4WJ6FSQCO4F5A7632048A62D9D17142CA2F68219E9.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4.uasset'
+[2025.10.25-15.42.08:214][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+[2025.10.25-15.42.08:214][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/H4AXV0G023QP28PQTAOF1OAB067375404ECBAD53C36F9B58137A25.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O.uasset'
+[2025.10.25-15.42.08:225][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+[2025.10.25-15.42.08:225][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/IYAAZJT51R8CKODGGF8YC2D31842424D458C6B3223C8AD55797CF7.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2.uasset'
+[2025.10.25-15.42.08:234][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+[2025.10.25-15.42.08:234][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/F6F3RD6PEOLM8CV7YNVMYSD24EFD114C14D1013BE82DB3867AE593.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS.uasset'
+[2025.10.25-15.42.08:244][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+[2025.10.25-15.42.08:244][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/D5AP58IHU71AU0M2JNWETA50C779CB4858F1A8F70A43B56BE0CB58.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA.uasset'
+[2025.10.25-15.42.08:253][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+[2025.10.25-15.42.08:253][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/7XH5KOM6VGSWXXG4WJEEWJ2831EF5941F07D8C16CC87B991A0F85B.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ.uasset'
+[2025.10.25-15.42.08:262][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+[2025.10.25-15.42.08:262][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/RLEWE2Y9S5ZDO8F6ELEJ00D584FC9549D5FCDFEC312298CD6EF36F.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00.uasset'
+[2025.10.25-15.42.08:271][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+[2025.10.25-15.42.08:271][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/8JJDOIVMLQYT8VXINSJM0RCE69EA8848A912539FCA92A8B0D358F7.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R.uasset'
+[2025.10.25-15.42.08:280][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+[2025.10.25-15.42.08:280][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/ZWSO730QU54SJNCOZJ3TA15B85E9A641D539CF4F00D2ABE65B4BCA.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1.uasset'
+[2025.10.25-15.42.08:290][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+[2025.10.25-15.42.08:290][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/0F53A5EQLRS5JNU3C82R84E3B69B91498955C8DC1B83B81C55C01E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset'
+[2025.10.25-15.42.08:299][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+[2025.10.25-15.42.08:299][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/1ETCZL36T8LOULTG5FSKJ834BA22854717F0EE4F2854A24084D5BD.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset'
+[2025.10.25-15.42.08:308][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2025.10.25-15.42.08:308][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/I5IPTC503UZ5480FO15FQ794BF2D7C498EA64515D925B93EE3E239.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset'
+[2025.10.25-15.42.08:312][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/FH/K6D317M9QZ9KY3RC3737S7
+[2025.10.25-15.42.08:312][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/K6D317M9QZ9KY3RC3737S79A5B9AFF44276BE0AEAE079B0AB1F564.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/1/FH/K6D317M9QZ9KY3RC3737S7.uasset'
+[2025.10.25-15.42.08:316][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/KF/PNBV1NDF5LBBTHEXVAV5TP
+[2025.10.25-15.42.08:316][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/PNBV1NDF5LBBTHEXVAV5TP3F19FB7D465A690697C33E93C56D74BD.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/KF/PNBV1NDF5LBBTHEXVAV5TP.uasset'
+[2025.10.25-15.42.08:320][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/48/FLWFZPR69IO3MS852O6VZG
+[2025.10.25-15.42.08:320][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/FLWFZPR69IO3MS852O6VZG72025F7A4C31F49839618EAC86CF516E.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/8/48/FLWFZPR69IO3MS852O6VZG.uasset'
+[2025.10.25-15.42.08:323][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/AX/RH2VDDHEVOODJLOWT5I3EN
+[2025.10.25-15.42.08:323][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/RH2VDDHEVOODJLOWT5I3ENF1581D2F4422A17C71166B8E14BF6F20.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/7/AX/RH2VDDHEVOODJLOWT5I3EN.uasset'
+[2025.10.25-15.42.08:327][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/QX/49HLWB7AUZZIF9209PUNJ2
+[2025.10.25-15.42.08:327][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/49HLWB7AUZZIF9209PUNJ20E12A5BE40FB0389ABA27A82C2B6A541.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/9/QX/49HLWB7AUZZIF9209PUNJ2.uasset'
+[2025.10.25-15.42.08:331][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/RJ/AQXKEB7YOXB5CVEQI09PU2
+[2025.10.25-15.42.08:331][697]LogSavePackage: Moving '../../../Projects/ortakproje/Saved/AQXKEB7YOXB5CVEQI09PU2797C21C941D278283CC1B883B55FB701.tmp' to '../../../Projects/ortakproje/Content/__ExternalActors__/NewMap/D/RJ/AQXKEB7YOXB5CVEQI09PU2.uasset'
+[2025.10.25-15.42.08:335][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.0 sec
+[2025.10.25-15.42.08:374][697]LogFileHelpers: Saving map 'NewMap' took 12.826
+[2025.10.25-15.42.08:374][697]Cmd: MAP LOAD FILE="../../../Projects/ortakproje/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.25-15.42.08:432][697]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.42.08:432][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.42.08:432][697]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2025.10.25-15.42.08:486][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-15.42.08:507][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.25-15.42.08:509][697]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-15.42.08:515][697]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2025.10.25-15.42.08:515][697]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.10.25-15.42.08:562][697]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.25-15.42.08:562][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-15.42.08:562][697]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-15.42.08:968][697]LogWorldPartition: Display: WorldPartition initialize took 406.364 ms (total: 2.05 sec)
+[2025.10.25-15.42.09:262][697]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.25-15.42.09:284][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.25-15.42.09:288][697]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.25-15.42.09:290][697]MapCheck: Harita kontrolü tamamlandı: 0 Hata, 0 Uyarı, 1,411 ms'de tamamlandı.
+[2025.10.25-15.42.09:439][697]LogContentValidation: Display: Starting to validate 152 assets
+[2025.10.25-15.42.09:440][697]LogContentValidation: Enabled validators:
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-15.42.09:440][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-15.42.09:504][697]AssetCheck: /Game/NewMap Öğe doğrulama
+[2025.10.25-15.42.09:504][697]AssetCheck: /Game/NewMap_HLOD0_Instancing Öğe doğrulama
+[2025.10.25-15.42.09:969][697]LogStaticMesh: Display: "statik örgüler" öğesinin hazır olması bekleniyor 0/1 (/Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD) ...
+[2025.10.25-15.42.10:202][697]LogAutomationController: Ignoring very large delta of 23.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.25-15.42.10:208][697]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../Projects/ortakproje/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.25-15.42.38:276][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1740.363647
+[2025.10.25-15.42.38:465][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-15.42.38:465][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1740.544922, Update Interval: 327.208466
+[2025.10.25-15.42.38:825][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.25-15.42.38:854][896]LogStall: Shutdown...
+[2025.10.25-15.42.38:854][896]LogStall: Shutdown complete.
+[2025.10.25-15.42.39:094][896]LogSlate: Window 'ortakproje - Unreal Editor' being destroyed
+[2025.10.25-15.42.39:585][896]Cmd: QUIT_EDITOR
+[2025.10.25-15.42.39:585][897]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.25-15.42.39:589][897]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.25-15.42.39:589][897]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.25-15.42.39:589][897]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.25-15.42.39:603][897]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.42.39:603][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.42.39:603][897]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2025.10.25-15.42.39:611][897]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.25-15.42.39:611][897]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.25-15.42.39:611][897]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.25-15.42.39:629][897]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.42.39:629][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.42.39:659][897]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.25-15.42.39:659][897]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.10.25-15.42.40:161][897]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.25-15.42.40:163][897]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.25-15.42.40:164][897]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.25-15.42.40:164][897]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.25-15.42.40:164][897]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2025.10.25-15.42.40:164][897]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.25-15.42.40:164][897]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.25-15.42.40:166][897]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.25-15.42.40:174][897]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.25-15.42.40:174][897]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.25-15.42.40:177][897]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.25-15.42.40:178][897]LogExit: Preparing to exit.
+[2025.10.25-15.42.40:235][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.25-15.42.41:509][897]LogEditorDataStorage: Deinitializing
+[2025.10.25-15.42.41:594][897]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.25-15.42.41:611][897]LogExit: Editor shut down
+[2025.10.25-15.42.41:614][897]LogExit: Transaction tracking system shut down
+[2025.10.25-15.42.41:752][897]LogExit: Object subsystem successfully closed.
+[2025.10.25-15.42.41:823][897]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.25-15.42.42:170][897]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.10.25-15.42.42:184][897]LogMemoryProfiler: Shutdown
+[2025.10.25-15.42.42:184][897]LogNetworkingProfiler: Shutdown
+[2025.10.25-15.42.42:184][897]LoadingProfiler: Shutdown
+[2025.10.25-15.42.42:184][897]LogTimingProfiler: Shutdown
+[2025.10.25-15.42.42:184][897]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.25-15.42.42:184][897]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.25-15.42.42:469][897]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.25-15.42.42:469][897]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.25-15.42.42:469][897]RenderDocPlugin: plugin has been unloaded.
+[2025.10.25-15.42.42:503][897]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.25-15.42.42:504][897]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF09487B4-43B8-382B-571D-81AFA70AD81F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f3b7eebd4df81f9349bde0b41b878be6%7C51dcf4cb54b04657a222bf07de0f2e1c%7C6b8046a4-2956-433f-b469-513e8f58e9a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.25-15.42.43:038][897]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.25-15.42.43:060][897]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.25-15.42.43:060][897]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.25-15.42.43:060][897]LogPakFile: Destroying PakPlatformFile
+[2025.10.25-15.42.43:709][897]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.25-15.42.43:738][897]LogExit: Exiting.
+[2025.10.25-15.42.43:764][897]Log file closed, 10/25/25 18:42:43
